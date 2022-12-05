@@ -28,6 +28,6 @@
   "dependencies": {
     "fastify": "^3.29.4",
     "ioredis": "^4.28.0",
-    "node-fetch": "^2.5.0"
+    "node-fetch": "^2.6.7"
   }
 }
